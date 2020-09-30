@@ -1,0 +1,37 @@
+body{
+    /*
+    background-color: #ccc;
+    background-image: url("img/Fondo1.jpg");
+    background-repeat: repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-position: left bottom;
+    */
+    color: black;
+    text-align: justify;
+    text-indent: 15px;
+    /*
+    word-spacing: 10px;
+    letter-spacing: 5px;
+    */
+}
+
+#caja{
+    border: 5px solid black;
+    padding: 10px;
+    background-color: rgb(113, 128, 211);
+    color: white;
+    font-family: "Open Sans";
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-decoration: line-through;
+    vertical-align: top;
+}
+
+h2{
+    color: red;
+    background: white;
+    background-image: url("img/Patron1.jpg");
+    border: 5px solid red;
+}
